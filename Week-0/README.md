@@ -9,7 +9,7 @@ pkg install -forge image
 ```
 
 ```
-pkg load image
+pkg load image;
 ```
 
 ## Converting an Image to grayscale

@@ -1,0 +1,1 @@
+I = imread("tree.jpg");J = rgb2gray(I);K = 255 - J;imshow(K);title("Negative Imagde");

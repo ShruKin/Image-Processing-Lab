@@ -6,4 +6,4 @@ plot(t, a, "b--c");
 
 xlabel("x axis");
 ylabel("y axis");
-title("Sine");
+title("Cosine");
